@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "BrokerIO",
+  "versions": [
+    {
+      "commit": "50638fc4df33900f35fd2c2a35d9cf03715c0819",
+      "tag": "0.5.1",
+      "parsed_at": "2026-11-08T18:31:12.024650+00:00"
+    }
+  ]
+}

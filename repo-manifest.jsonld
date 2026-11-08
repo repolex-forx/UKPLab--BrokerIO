@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/BrokerIO/commit/50638fc4df33900f35fd2c2a35d9cf03715c0819",
       "git:hexsha": "50638fc4df33900f35fd2c2a35d9cf03715c0819",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.5.1"
     },
     {
